@@ -1,0 +1,15 @@
+/* .yellow {color:yellow}
+#greycol {color:grey}
+div+h3+p {color:green}
+.text-box > :first-child {color:pink}
+div > :only-child {color:red} */
+button:hover {color:aquamarine}
+a:visited {color:deeppink}
+a:link {color:gold}
+:not(div){color:lightcoral}
+a:focus {color:darkviolet}
+:last-child {color:black}
+:first-child {color:khaki}
+:nth-child(even) {color:dodgerblue}
+:nth-child(3n) {color:midnightblue}
+:nth-child(4n) {color:olivedrab}
